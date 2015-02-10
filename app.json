@@ -1,0 +1,8 @@
+{
+  "name": "Heroku Symfony",
+  "description": "",
+  "repository": "https://github.com/alexdbz94/Heroku-Symfony",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+
+}

@@ -1,4 +1,6 @@
-
+<a href="https://heroku.com/deploy?template=https://github.com/alexdbz94/Heroku-Symfony">
+  <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy">
+</a>
 Symfony Standard Edition
 ========================
 

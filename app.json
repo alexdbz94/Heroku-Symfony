@@ -4,8 +4,7 @@
   "repository": "https://github.com/alexdbz94/Heroku-Symfony",
   "logo": "",
   "keywords": ["Symfony", "test", "static"],
-  "addons": [
-        "heroku-postgresql:hobby-dev"
-    ]
+  "addons": ["heroku-postgresql:hobby-dev"],
+    "scripts": {"postdeploy": "php app/console doctrine:schema:create"}
 
 }

@@ -1,6 +1,6 @@
 lyckee_store:
     resource: "@LyckeeStoreBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /Lyckee/
 
 app:
     resource: @AppBundle/Controller/

@@ -1,3 +1,7 @@
+app:
+    resource: @AppBundle/Controller/
+    type:     annotation
+
 lyckee_store_homepage:
     path:     /hello/{name}
     defaults: { _controller: LyckeeStoreBundle:Default:index }
